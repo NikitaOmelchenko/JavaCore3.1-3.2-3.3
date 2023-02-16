@@ -1,0 +1,14 @@
+
+2023-02-16T17:56:54.3456071 : Создание директории 'C:\Users\KK\Desktop\JavaCore3\games\src' - уже существует.
+2023-02-16T17:56:54.3456071 : Создание директории 'C:\Users\KK\Desktop\JavaCore3\games\src\main' - уже существует.
+2023-02-16T17:56:54.3456071 : Создание файла 'C:\Users\KK\Desktop\JavaCore3\games\src\main\Main.java' - уже существует.
+2023-02-16T17:56:54.3456071 : Создание файла 'C:\Users\KK\Desktop\JavaCore3\games\src\main\Utils.java' - уже существует.
+2023-02-16T17:56:54.3456071 : Создание директории 'C:\Users\KK\Desktop\JavaCore3\games\src\test' - уже существует.
+2023-02-16T17:56:54.3456071 : Создание директории 'C:\Users\KK\Desktop\JavaCore3\games\res' - уже существует.
+2023-02-16T17:56:54.3456071 : Создание директории 'C:\Users\KK\Desktop\JavaCore3\games\res\drawables' - уже существует.
+2023-02-16T17:56:54.3456071 : Создание директории 'C:\Users\KK\Desktop\JavaCore3\games\res\vectors' - уже существует.
+2023-02-16T17:56:54.3466089 : Создание директории 'C:\Users\KK\Desktop\JavaCore3\games\res\icons' - уже существует.
+2023-02-16T17:56:54.3466089 : Создание директории 'C:\Users\KK\Desktop\JavaCore3\games\savegames' - уже существует.
+2023-02-16T17:56:54.3466089 : Создание директории 'C:\Users\KK\Desktop\JavaCore3\games\temp' - уже существует.
+2023-02-16T17:56:54.3466089 : Создание файла 'C:\Users\KK\Desktop\JavaCore3\games\temp\temp.txt' - уже существует.
+2023-02-16T17:56:54.3466089 : Файлы и каталоги были успешно созданы.
